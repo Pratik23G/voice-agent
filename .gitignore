@@ -14,3 +14,4 @@ build/
 .DS_Store
 *.log
 .pytest_cache/
+.claude/
