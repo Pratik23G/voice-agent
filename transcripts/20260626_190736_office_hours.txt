@@ -1,0 +1,13 @@
+Call ID : 019f0553-2035-7000-bed7-f5012cfc45ee
+Scenario: office_hours
+Date    : 20260626_190736
+============================================================
+
+[00:00] AGENT: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?
+[00:16] PATIENT: Hi. This is Michael Thompson. I'm not Maria. Was hoping you could tell me what your office hours are during the week.
+[00:25] AGENT: Our clinic is open Monday, Tuesday, and Thursday from 9 AM to 4 PM, Wednesday from 12 PM to 7 PM. And Friday from 9 AM to 12 PM. Is there anything else I can help you with today?
+[00:39] PATIENT: Thanks for that. Are you open on Saturdays at all?
+[00:44] AGENT: We're not open on Saturdays. Our clinic is open Monday through Friday only. Me know if you have any other questions.
+[00:54] PATIENT: What about early morning, like before 8 AM or late evenings?
+[01:00] AGENT: We do not have appointments before 9 AM on most days. The only late evening hours are on Wednesdays. When we are open until 7 PM.
+[01:09] AGENT: He needs

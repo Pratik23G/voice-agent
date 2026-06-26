@@ -1,0 +1,90 @@
+{
+  "call_id": "019efd30-3d2d-7000-8caa-af12407e7578",
+  "scenario": "schedule_new",
+  "timestamp": "20260625_051336",
+  "status": "ended",
+  "ended_reason": "assistant-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thank you for calling",
+      "seconds_from_start": 1.12
+    },
+    {
+      "role": "bot",
+      "content": "Hello. I",
+      "seconds_from_start": 8.517
+    },
+    {
+      "role": "user",
+      "content": "Hi there. How can I help you today?",
+      "seconds_from_start": 14
+    },
+    {
+      "role": "bot",
+      "content": "Hi. I'd like to schedule an appointment as in hi. I'd like to make Nuke an appointment as a new pen patient. Please.",
+      "seconds_from_start": 18.297
+    },
+    {
+      "role": "user",
+      "content": "Would you like to create a demo patient profile? I just need your 1st and last name to get started.",
+      "seconds_from_start": 28.05
+    },
+    {
+      "role": "bot",
+      "content": "Sure. It's Maria Johnson.",
+      "seconds_from_start": 36.0270029296875
+    },
+    {
+      "role": "user",
+      "content": "Your patient profile is set up. And your date of birth is July 4th 2000 for demo purposes. How may I help you today?",
+      "seconds_from_start": 41.75
+    },
+    {
+      "role": "bot",
+      "content": "19 90. Could you update that, please? Actually, my real date of birth is March 15th. 19 90. I'm looking to establish care with a primary care doctor a general checkup.",
+      "seconds_from_start": 51.587
+    },
+    {
+      "role": "user",
+      "content": "Thanks for letting me know, Maria. I have your date of birth as March 15th 19 90. Do you have a preferred provider, or would you like to see the 1st available primary care doctor?",
+      "seconds_from_start": 67.46
+    },
+    {
+      "role": "bot",
+      "content": "I'd like to see the 1st available primary care doctor Please",
+      "seconds_from_start": 80.907
+    },
+    {
+      "role": "user",
+      "content": "There are no openings with the primary care doctors through next Wednesday. Would you like me to look further out for the next available appointment?",
+      "seconds_from_start": 89.5099951171875
+    },
+    {
+      "role": "bot",
+      "content": "Yes, please. I'd like to get an appointment within the next 2 weeks, if possible.",
+      "seconds_from_start": 98.517
+    },
+    {
+      "role": "user",
+      "content": "I found openings with doctor doctor Duvy Houser on Thursday, July 2nd. Would you like 10 30 AM, 12 PM, or 12 45 PM?",
+      "seconds_from_start": 108.55
+    },
+    {
+      "role": "bot",
+      "content": "10 30 AM would work best for me. Thanks.",
+      "seconds_from_start": 119.187
+    },
+    {
+      "role": "user",
+      "content": "You are scheduled for a new patient checkup with doctor Dougie Hauser on Thursday, July 2nd at 10 30 AM.",
+      "seconds_from_start": 127.14001000976563
+    },
+    {
+      "role": "user",
+      "content": "At Pivot",
+      "seconds_from_start": 133.69
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thank you for calling\nAI: Hello. I\nUser: Hi there. How can I help you today?\nAI: Hi. I'd like to schedule an appointment as in hi. I'd like to make Nuke an appointment as a new pen patient. Please.\nUser: Would you like to create a demo patient profile? I just need your 1st and last name to get started.\nAI: Sure. It's Maria Johnson.\nUser: Your patient profile is set up. And your date of birth is July 4th 2000 for demo purposes. How may I help you today?\nAI: 19 90. Could you update that, please? Actually, my real date of birth is March 15th. 19 90. I'm looking to establish care with a primary care doctor a general checkup.\nUser: Thanks for letting me know, Maria. I have your date of birth as March 15th 19 90. Do you have a preferred provider, or would you like to see the 1st available primary care doctor?\nAI: I'd like to see the 1st available primary care doctor Please\nUser: There are no openings with the primary care doctors through next Wednesday. Would you like me to look further out for the next available appointment?\nAI: Yes, please. I'd like to get an appointment within the next 2 weeks, if possible.\nUser: I found openings with doctor doctor Duvy Houser on Thursday, July 2nd. Would you like 10 30 AM, 12 PM, or 12 45 PM?\nAI: 10 30 AM would work best for me. Thanks.\nUser: You are scheduled for a new patient checkup with doctor Dougie Hauser on Thursday, July 2nd at 10 30 AM.\nUser: At Pivot\n"
+}

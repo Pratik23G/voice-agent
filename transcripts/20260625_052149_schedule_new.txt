@@ -1,0 +1,19 @@
+Call ID : 019efd38-3e57-744b-b6c1-32d8ff728fbc
+Scenario: schedule_new
+Date    : 20260625_052149
+============================================================
+
+[00:01] AGENT: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?
+[00:15] PATIENT: Hi. Yes. This is Maria. I'd like to make an appointment as a new patient. Please?
+[00:23] AGENT: Can you please provide your date of birth?
+[00:27] PATIENT: Sure, it's March 15th 19 90,
+[00:33] AGENT: Hi, it's Maria. Just to confirm, you'd like to schedule a new patient consultation. Correct?
+[00:41] PATIENT: Yes. That's right. I need to establish care and have a general checkup.
+[00:48] AGENT: Do you have a specific provider you'd like to see, or are you open to any available provider?
+[00:54] PATIENT: I'm open to any available provider. Thank you.
+[01:02] AGENT: Looks like you already have a new patient. Consultation appointment booked. If you'd like, I could help you reschedule or cancel
+[01:07] PATIENT: Oh, I
+[01:12] PATIENT: oh, I think this is my 1st appointment.
+[01:13] AGENT: no problem. Would you like to reschedule your existing appointment? Cancel it, or do something else?
+[01:21] PATIENT: I'd like to check the date and time of the existing appointment 1st. Please.
+[01:28] AGENT: I can't access your current appointment details directly. I'll connect you with a team member who can provide that information. Please hold while I transfer you.

@@ -1,0 +1,105 @@
+{
+  "call_id": "019f0546-e73d-744d-a96c-6a280e139698",
+  "scenario": "reschedule",
+  "timestamp": "20260626_185537",
+  "status": "ended",
+  "ended_reason": "assistant-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling Kivett Point Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 1.12
+    },
+    {
+      "role": "bot",
+      "content": "Hi. Yeah. This is James Chen. I need to reschedule an appointment I have coming up. Hi. Yeah. This is James Chen.",
+      "seconds_from_start": 15.996
+    },
+    {
+      "role": "user",
+      "content": "Please provide the full name and date of birth of the patient you are calling about.",
+      "seconds_from_start": 21.5399990234375
+    },
+    {
+      "role": "bot",
+      "content": "Sure. My full name is James Chen, and my date of birth is August 22nd. 19 79. I have an appointment on Monday. July 7th.",
+      "seconds_from_start": 28.956
+    },
+    {
+      "role": "user",
+      "content": "Just to confirm, I have your name as James Chen. And your date of birth as August 20",
+      "seconds_from_start": 42.14
+    },
+    {
+      "role": "bot",
+      "content": "Yeah. That's right.",
+      "seconds_from_start": 47.496
+    },
+    {
+      "role": "user",
+      "content": "thanks for confirming. 1 moment while I look up your information.",
+      "seconds_from_start": 50.83999609375
+    },
+    {
+      "role": "bot",
+      "content": "Okay. Thanks. I appreciate it.",
+      "seconds_from_start": 57.9260029296875
+    },
+    {
+      "role": "user",
+      "content": "You're welcome. Let me check your details now.",
+      "seconds_from_start": 62.010001953125
+    },
+    {
+      "role": "bot",
+      "content": "Sure. Take your time.",
+      "seconds_from_start": 70.096
+    },
+    {
+      "role": "user",
+      "content": "Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, I can confirm your name and date of birth again.",
+      "seconds_from_start": 75.94
+    },
+    {
+      "role": "bot",
+      "content": "Yeah. You can check with my phone number. It's 8 0 5 5 5 5 0 2 4 8.",
+      "seconds_from_start": 88.166
+    },
+    {
+      "role": "user",
+      "content": "I have your phone number as 8 0 5 5 5 5 0 2 4 8. And your date of birth is August 22nd 19 79. Is that correct?",
+      "seconds_from_start": 98.5
+    },
+    {
+      "role": "bot",
+      "content": "Yeah. That's correct.",
+      "seconds_from_start": 110.846
+    },
+    {
+      "role": "user",
+      "content": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?",
+      "seconds_from_start": 116.81
+    },
+    {
+      "role": "bot",
+      "content": "No. No. That's okay. I just need to reschedule my appointment from Monday July 7th at 2 possible I'd like to move it to Thursday. July 10th Friday, July 11th. Preferably in the afternoon. Is there anything available then?",
+      "seconds_from_start": 127.8559951171875
+    },
+    {
+      "role": "user",
+      "content": "I can't access your record right now.",
+      "seconds_from_start": 147.53
+    },
+    {
+      "role": "user",
+      "content": "So I'm unable",
+      "seconds_from_start": 149.89
+    },
+    {
+      "role": "bot",
+      "content": "Goodbye.",
+      "seconds_from_start": 151.996
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling Kivett Point Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hi. Yeah. This is James Chen. I need to reschedule an appointment I have coming up. Hi. Yeah. This is James Chen.\nUser: Please provide the full name and date of birth of the patient you are calling about.\nAI: Sure. My full name is James Chen, and my date of birth is August 22nd. 19 79. I have an appointment on Monday. July 7th.\nUser: Just to confirm, I have your name as James Chen. And your date of birth as August 20\nAI: Yeah. That's right.\nUser: thanks for confirming. 1 moment while I look up your information.\nAI: Okay. Thanks. I appreciate it.\nUser: You're welcome. Let me check your details now.\nAI: Sure. Take your time.\nUser: Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, I can confirm your name and date of birth again.\nAI: Yeah. You can check with my phone number. It's 8 0 5 5 5 5 0 2 4 8.\nUser: I have your phone number as 8 0 5 5 5 5 0 2 4 8. And your date of birth is August 22nd 19 79. Is that correct?\nAI: Yeah. That's correct.\nUser: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?\nAI: No. No. That's okay. I just need to reschedule my appointment from Monday July 7th at 2 possible I'd like to move it to Thursday. July 10th Friday, July 11th. Preferably in the afternoon. Is there anything available then?\nUser: I can't access your record right now.\nUser: So I'm unable\nAI: Goodbye.\n"
+}

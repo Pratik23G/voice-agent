@@ -1,0 +1,105 @@
+{
+  "call_id": "019f0550-3ce9-7001-99f2-26f1de516980",
+  "scenario": "refill_esomeprazole",
+  "timestamp": "20260626_190549",
+  "status": "ended",
+  "ended_reason": "assistant-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 0.96
+    },
+    {
+      "role": "bot",
+      "content": "Hello. This is Patricia Lopez. I'm calling to request a refill for my acid reflux medication. Hello. This is Patricia Lopez. I'm actually calling to request a prescription refill. Could you help me with",
+      "seconds_from_start": 16.0040009765625
+    },
+    {
+      "role": "user",
+      "content": "Please provide Patricia's date of birth.",
+      "seconds_from_start": 26.84
+    },
+    {
+      "role": "bot",
+      "content": "My date of birth is November 28 19 69.",
+      "seconds_from_start": 32.1140009765625
+    },
+    {
+      "role": "user",
+      "content": "Can you also provide the year of birth for Patricia?",
+      "seconds_from_start": 36.83999609375
+    },
+    {
+      "role": "bot",
+      "content": "Sure. The year of birth for Patricia is 19 69.",
+      "seconds_from_start": 42.064
+    },
+    {
+      "role": "user",
+      "content": "Just to confirm, I have Patricia Lopez with a date of birth of November 28th 19 69. Is that correct? If so, please spell out your 1st and last name for me.",
+      "seconds_from_start": 50.0300029296875
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's correct. It's Patricia Lopez? Yes. That's correct. My name is Patricia Lopez. That's p a t r I c I a",
+      "seconds_from_start": 62.894
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Could you please spell out your last name, Lopez?",
+      "seconds_from_start": 72.0499951171875
+    },
+    {
+      "role": "bot",
+      "content": "course, it's LOPEZ.",
+      "seconds_from_start": 79.054
+    },
+    {
+      "role": "user",
+      "content": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.",
+      "seconds_from_start": 85.65999609375
+    },
+    {
+      "role": "bot",
+      "content": "Yes. Use my phone number. It's 8 0 5 5 5 5.",
+      "seconds_from_start": 96.814
+    },
+    {
+      "role": "user",
+      "content": "Please tell me the phone number you have on file with us.",
+      "seconds_from_start": 99.48
+    },
+    {
+      "role": "bot",
+      "content": "The phone number I have on file is 8 0 5 5 5 0 6 3 4.",
+      "seconds_from_start": 104.654
+    },
+    {
+      "role": "user",
+      "content": "I have your phone number as 8 0 5 5 5 0 6 3 4 and your date of birth is November",
+      "seconds_from_start": 116.36
+    },
+    {
+      "role": "bot",
+      "content": "I'm sorry. Let me yes. That's right. Thank you. I'm calling to get a refill for my acid reflux medication. 28th 19 69. That's correct. Now about my medication refill. I'm looking to get a refill for my acid reflux medication. It's Esozone or Esomeprazole. The acid reflux 1, it might be the generic for Nexium. The purple pill for acid reflux. The dosage is 40 milligrams.",
+      "seconds_from_start": 121.6340048828125
+    },
+    {
+      "role": "user",
+      "content": "Connecting you to a representative. Please wait.",
+      "seconds_from_start": 146.89
+    },
+    {
+      "role": "bot",
+      "content": "Thank you very much. I appreciate",
+      "seconds_from_start": 151.754
+    },
+    {
+      "role": "user",
+      "content": "You've reached the Pretty Good AI test line. Goodbye.",
+      "seconds_from_start": 152.14
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hello. This is Patricia Lopez. I'm calling to request a refill for my acid reflux medication. Hello. This is Patricia Lopez. I'm actually calling to request a prescription refill. Could you help me with\nUser: Please provide Patricia's date of birth.\nAI: My date of birth is November 28 19 69.\nUser: Can you also provide the year of birth for Patricia?\nAI: Sure. The year of birth for Patricia is 19 69.\nUser: Just to confirm, I have Patricia Lopez with a date of birth of November 28th 19 69. Is that correct? If so, please spell out your 1st and last name for me.\nAI: Yes. That's correct. It's Patricia Lopez? Yes. That's correct. My name is Patricia Lopez. That's p a t r I c I a\nUser: Thank you. Could you please spell out your last name, Lopez?\nAI: course, it's LOPEZ.\nUser: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.\nAI: Yes. Use my phone number. It's 8 0 5 5 5 5.\nUser: Please tell me the phone number you have on file with us.\nAI: The phone number I have on file is 8 0 5 5 5 0 6 3 4.\nUser: I have your phone number as 8 0 5 5 5 0 6 3 4 and your date of birth is November\nAI: I'm sorry. Let me yes. That's right. Thank you. I'm calling to get a refill for my acid reflux medication. 28th 19 69. That's correct. Now about my medication refill. I'm looking to get a refill for my acid reflux medication. It's Esozone or Esomeprazole. The acid reflux 1, it might be the generic for Nexium. The purple pill for acid reflux. The dosage is 40 milligrams.\nUser: Connecting you to a representative. Please wait.\nAI: Thank you very much. I appreciate\nUser: You've reached the Pretty Good AI test line. Goodbye.\n"
+}

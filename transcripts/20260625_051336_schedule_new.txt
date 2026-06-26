@@ -1,0 +1,21 @@
+Call ID : 019efd30-3d2d-7000-8caa-af12407e7578
+Scenario: schedule_new
+Date    : 20260625_051336
+============================================================
+
+[00:01] AGENT: This call may be recorded for quality and training purposes. Thank you for calling
+[00:08] PATIENT: Hello. I
+[00:14] AGENT: Hi there. How can I help you today?
+[00:18] PATIENT: Hi. I'd like to schedule an appointment as in hi. I'd like to make Nuke an appointment as a new pen patient. Please.
+[00:28] AGENT: Would you like to create a demo patient profile? I just need your 1st and last name to get started.
+[00:36] PATIENT: Sure. It's Maria Johnson.
+[00:41] AGENT: Your patient profile is set up. And your date of birth is July 4th 2000 for demo purposes. How may I help you today?
+[00:51] PATIENT: 19 90. Could you update that, please? Actually, my real date of birth is March 15th. 19 90. I'm looking to establish care with a primary care doctor a general checkup.
+[01:07] AGENT: Thanks for letting me know, Maria. I have your date of birth as March 15th 19 90. Do you have a preferred provider, or would you like to see the 1st available primary care doctor?
+[01:20] PATIENT: I'd like to see the 1st available primary care doctor Please
+[01:29] AGENT: There are no openings with the primary care doctors through next Wednesday. Would you like me to look further out for the next available appointment?
+[01:38] PATIENT: Yes, please. I'd like to get an appointment within the next 2 weeks, if possible.
+[01:48] AGENT: I found openings with doctor doctor Duvy Houser on Thursday, July 2nd. Would you like 10 30 AM, 12 PM, or 12 45 PM?
+[01:59] PATIENT: 10 30 AM would work best for me. Thanks.
+[02:07] AGENT: You are scheduled for a new patient checkup with doctor Dougie Hauser on Thursday, July 2nd at 10 30 AM.
+[02:13] AGENT: At Pivot

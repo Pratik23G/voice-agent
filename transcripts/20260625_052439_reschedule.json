@@ -1,0 +1,70 @@
+{
+  "call_id": "019efd3a-58f0-777e-bfb1-702f1bde53fd",
+  "scenario": "reschedule",
+  "timestamp": "20260625_052439",
+  "status": "ended",
+  "ended_reason": "assistant-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 1.04
+    },
+    {
+      "role": "bot",
+      "content": "Hi. Uh, yeah. This is James Chen. I need to reschedule an upcoming appointment.",
+      "seconds_from_start": 15.1330009765625
+    },
+    {
+      "role": "user",
+      "content": "Please provide the full name and date of birth of the patient you're calling about.",
+      "seconds_from_start": 22.83
+    },
+    {
+      "role": "bot",
+      "content": "Yeah. Sure. It's James Chen, and my date of birth is August 22nd 19 79. My current appointment is on Monday, July 7th at 2 PM for a follow-up visit. I need to see if I can move it.",
+      "seconds_from_start": 28.533
+    },
+    {
+      "role": "user",
+      "content": "Just to confirm, I have your name as James Chen? And your date of birth as August 22nd 19 79. Is that correct? If so, could you please spell your 1st and last name for me?",
+      "seconds_from_start": 45.0300029296875
+    },
+    {
+      "role": "bot",
+      "content": "Right. Yeah. That's correct. James Chen, c h e n.",
+      "seconds_from_start": 57.0130029296875
+    },
+    {
+      "role": "user",
+      "content": "Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number If you're not sure, just let me know, and I'll confirm your name and date of birth again.",
+      "seconds_from_start": 64.71
+    },
+    {
+      "role": "bot",
+      "content": "Yeah. You can use my phone number. It's 8 0 5 5 5 5 0 2 4 8. Thanks.",
+      "seconds_from_start": 76.883
+    },
+    {
+      "role": "user",
+      "content": "I have your phone number as 8 0 5 5 5 5 0 2 4 8. And your date of birth as August 22nd 19 79. Is that correct?",
+      "seconds_from_start": 87
+    },
+    {
+      "role": "bot",
+      "content": "Yeah. That's right. Thanks. So, uh, I was wondering, there's any availability to move my appointment to Thursday. July 10th, or Friday, July 11th, preferably in the afternoon.",
+      "seconds_from_start": 99.643
+    },
+    {
+      "role": "user",
+      "content": "I can't proceed further right now, but I can make sure their clinic's support team follows up with you. Please hold while I connect you to our patient support team. Connecting you to a representative Please wait Hello. You've reached the Pretty Good AI test line. Goodbye.",
+      "seconds_from_start": 115.6300048828125
+    },
+    {
+      "role": "bot",
+      "content": "Goodbye. Let me call back with more details.",
+      "seconds_from_start": 135.783
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hi. Uh, yeah. This is James Chen. I need to reschedule an upcoming appointment.\nUser: Please provide the full name and date of birth of the patient you're calling about.\nAI: Yeah. Sure. It's James Chen, and my date of birth is August 22nd 19 79. My current appointment is on Monday, July 7th at 2 PM for a follow-up visit. I need to see if I can move it.\nUser: Just to confirm, I have your name as James Chen? And your date of birth as August 22nd 19 79. Is that correct? If so, could you please spell your 1st and last name for me?\nAI: Right. Yeah. That's correct. James Chen, c h e n.\nUser: Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number If you're not sure, just let me know, and I'll confirm your name and date of birth again.\nAI: Yeah. You can use my phone number. It's 8 0 5 5 5 5 0 2 4 8. Thanks.\nUser: I have your phone number as 8 0 5 5 5 5 0 2 4 8. And your date of birth as August 22nd 19 79. Is that correct?\nAI: Yeah. That's right. Thanks. So, uh, I was wondering, there's any availability to move my appointment to Thursday. July 10th, or Friday, July 11th, preferably in the afternoon.\nUser: I can't proceed further right now, but I can make sure their clinic's support team follows up with you. Please hold while I connect you to our patient support team. Connecting you to a representative Please wait Hello. You've reached the Pretty Good AI test line. Goodbye.\nAI: Goodbye. Let me call back with more details.\n"
+}

@@ -1,0 +1,80 @@
+{
+  "call_id": "019efd3c-f408-7000-8236-8472ed845c5c",
+  "scenario": "cancel",
+  "timestamp": "20260625_052749",
+  "status": "ended",
+  "ended_reason": "customer-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 1.04
+    },
+    {
+      "role": "bot",
+      "content": "Hello. This is Sarah Williams. I have an appointment scheduled for this Friday at 3 30 PM. Hello. This is Sarah Williams. I'm actually calling to cancel an appointment I have this Friday at 3 30 PM.",
+      "seconds_from_start": 14.785
+    },
+    {
+      "role": "user",
+      "content": "Please provide the full name and date of birth of the patient whose appointment you would like to cancel.",
+      "seconds_from_start": 32.21
+    },
+    {
+      "role": "bot",
+      "content": "Sure. My full name is Sarah Williams. And my date of birth is June 3rd 19 97.",
+      "seconds_from_start": 39.095
+    },
+    {
+      "role": "user",
+      "content": "Just to confirm, I have your name as Sarah Williams and your date of birth as June 3rd 19 97. Is that correct? If so, could you please spell your 1st and last name for me?",
+      "seconds_from_start": 49.260001953125
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's correct. My 1st name is spelled s a r a h. My last name is w l l I a m s.",
+      "seconds_from_start": 61.755
+    },
+    {
+      "role": "user",
+      "content": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.",
+      "seconds_from_start": 72.49
+    },
+    {
+      "role": "bot",
+      "content": "Yes. You can use my phone number. It's 8 0 5 5 5 5 3 8 9.",
+      "seconds_from_start": 82.425
+    },
+    {
+      "role": "user",
+      "content": "I have your phone number as 8 0 5 5 5 5 3 8 9. And your date of birth as June 3rd 19 97. Is that correct?",
+      "seconds_from_start": 94.21
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's correct. I just wanted to cancel my appointment for this Friday at 3 30 PM. I found a doctor a bit closer to where I live. No reflection on you. Just more convenient.",
+      "seconds_from_start": 105.445
+    },
+    {
+      "role": "user",
+      "content": "Connecting you to a representative. Please wait.",
+      "seconds_from_start": 120.64
+    },
+    {
+      "role": "bot",
+      "content": "Thank",
+      "seconds_from_start": 125.57499609375
+    },
+    {
+      "role": "user",
+      "content": "Hello. You've reached the Pretty Good AI test line. Goodbye.",
+      "seconds_from_start": 125.42000610351562
+    },
+    {
+      "role": "bot",
+      "content": "Oh, I was hoping to cancel my appointment for this Friday at 3 30 PM. I found a doctor a bit closer to where I live. No reflection on you, just more convenient. Could you please confirm that the appointment has been canceled?",
+      "seconds_from_start": 131.115
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hello. This is Sarah Williams. I have an appointment scheduled for this Friday at 3 30 PM. Hello. This is Sarah Williams. I'm actually calling to cancel an appointment I have this Friday at 3 30 PM.\nUser: Please provide the full name and date of birth of the patient whose appointment you would like to cancel.\nAI: Sure. My full name is Sarah Williams. And my date of birth is June 3rd 19 97.\nUser: Just to confirm, I have your name as Sarah Williams and your date of birth as June 3rd 19 97. Is that correct? If so, could you please spell your 1st and last name for me?\nAI: Yes. That's correct. My 1st name is spelled s a r a h. My last name is w l l I a m s.\nUser: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.\nAI: Yes. You can use my phone number. It's 8 0 5 5 5 5 3 8 9.\nUser: I have your phone number as 8 0 5 5 5 5 3 8 9. And your date of birth as June 3rd 19 97. Is that correct?\nAI: Yes. That's correct. I just wanted to cancel my appointment for this Friday at 3 30 PM. I found a doctor a bit closer to where I live. No reflection on you. Just more convenient.\nUser: Connecting you to a representative. Please wait.\nAI: Thank\nUser: Hello. You've reached the Pretty Good AI test line. Goodbye.\nAI: Oh, I was hoping to cancel my appointment for this Friday at 3 30 PM. I found a doctor a bit closer to where I live. No reflection on you, just more convenient. Could you please confirm that the appointment has been canceled?\n"
+}

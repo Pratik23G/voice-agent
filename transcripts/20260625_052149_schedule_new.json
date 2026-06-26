@@ -1,0 +1,80 @@
+{
+  "call_id": "019efd38-3e57-744b-b6c1-32d8ff728fbc",
+  "scenario": "schedule_new",
+  "timestamp": "20260625_052149",
+  "status": "ended",
+  "ended_reason": "assistant-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 1.04
+    },
+    {
+      "role": "bot",
+      "content": "Hi. Yes. This is Maria. I'd like to make an appointment as a new patient. Please?",
+      "seconds_from_start": 15.205
+    },
+    {
+      "role": "user",
+      "content": "Can you please provide your date of birth?",
+      "seconds_from_start": 23.05
+    },
+    {
+      "role": "bot",
+      "content": "Sure, it's March 15th 19 90,",
+      "seconds_from_start": 27.255
+    },
+    {
+      "role": "user",
+      "content": "Hi, it's Maria. Just to confirm, you'd like to schedule a new patient consultation. Correct?",
+      "seconds_from_start": 33.88
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's right. I need to establish care and have a general checkup.",
+      "seconds_from_start": 41.295
+    },
+    {
+      "role": "user",
+      "content": "Do you have a specific provider you'd like to see, or are you open to any available provider?",
+      "seconds_from_start": 48.44
+    },
+    {
+      "role": "bot",
+      "content": "I'm open to any available provider. Thank you.",
+      "seconds_from_start": 54.675
+    },
+    {
+      "role": "user",
+      "content": "Looks like you already have a new patient. Consultation appointment booked. If you'd like, I could help you reschedule or cancel",
+      "seconds_from_start": 62.28
+    },
+    {
+      "role": "bot",
+      "content": "Oh, I",
+      "seconds_from_start": 67.625
+    },
+    {
+      "role": "bot",
+      "content": "oh, I think this is my 1st appointment.",
+      "seconds_from_start": 72.745
+    },
+    {
+      "role": "user",
+      "content": "no problem. Would you like to reschedule your existing appointment? Cancel it, or do something else?",
+      "seconds_from_start": 73.97
+    },
+    {
+      "role": "bot",
+      "content": "I'd like to check the date and time of the existing appointment 1st. Please.",
+      "seconds_from_start": 81.78499609375
+    },
+    {
+      "role": "user",
+      "content": "I can't access your current appointment details directly. I'll connect you with a team member who can provide that information. Please hold while I transfer you.",
+      "seconds_from_start": 88.17
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hi. Yes. This is Maria. I'd like to make an appointment as a new patient. Please?\nUser: Can you please provide your date of birth?\nAI: Sure, it's March 15th 19 90,\nUser: Hi, it's Maria. Just to confirm, you'd like to schedule a new patient consultation. Correct?\nAI: Yes. That's right. I need to establish care and have a general checkup.\nUser: Do you have a specific provider you'd like to see, or are you open to any available provider?\nAI: I'm open to any available provider. Thank you.\nUser: Looks like you already have a new patient. Consultation appointment booked. If you'd like, I could help you reschedule or cancel\nAI: Oh, I\nAI: oh, I think this is my 1st appointment.\nUser: no problem. Would you like to reschedule your existing appointment? Cancel it, or do something else?\nAI: I'd like to check the date and time of the existing appointment 1st. Please.\nUser: I can't access your current appointment details directly. I'll connect you with a team member who can provide that information. Please hold while I transfer you.\n"
+}

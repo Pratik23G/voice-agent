@@ -1,0 +1,19 @@
+Call ID : 019f0554-c1b1-7000-8626-6517bb0b6dc7
+Scenario: insurance_check
+Date    : 20260626_191118
+============================================================
+
+[00:00] AGENT: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?
+[00:16] PATIENT: Hello. This is Lisa Anderson. I would like to confirm a few details about Hello. This is Lisa Anderson. Insurance acceptance Before call us, please check if you're scheduling your 0.6 percent steps. Aetna PPO insurance before I make an appointment. Could you please confirm that for me?
+[00:38] AGENT: Help with your insurance question. Just to confirm, are you calling on behalf of Maria? Or are you looking for information for yourself?
+[00:50] PATIENT: I'm calling for myself. My name is Lisa Anderson, and I want to confirm whether you accept Aetna PPO insurance. Before I schedule an appointment. Can you please let me know if you are in network for Aetna PPO?
+[01:10] AGENT: Lisa, can you please provide your date of birth?
+[01:15] PATIENT: Yes. My date of birth is May 8 19 83.
+[01:23] AGENT: Just to make sure I have your information correct, can you please spell your 1st and last name for me? I have your date of birth as May 8th 19 83. Is that right?
+[01:34] PATIENT: Certainly. My 1st name is spelled l I s a. Yes. That's correct. My 1st name is l I s a, and my last name is a n e r s o n.
+[01:46] AGENT: Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. No problem.
+[01:58] PATIENT: No. No. Thank you.
+[02:00] AGENT: Could you please confirm the spelling of your 1st and last name 1 more time along with your date of birth?
+[02:09] PATIENT: Certainly. My 1st name is spelled l I s a. My last name is spelled a e r s o n. My date of birth is May 8 19 83.
+[02:22] AGENT: I can't confirm insurance details right now, but I can connect you to our patient support team for help. Please stay on the line while I transfer your call. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+[02:43] PATIENT: I understand, but I was hoping you could tell me from your end whether you're in network for Aetna PPO. Do you know?

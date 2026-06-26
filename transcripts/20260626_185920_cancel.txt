@@ -1,0 +1,20 @@
+Call ID : 019f0549-cadc-7000-8627-1b22f45c5d75
+Scenario: cancel
+Date    : 20260626_185920
+============================================================
+
+[00:01] AGENT: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?
+[00:15] PATIENT: Appointments scheduled for this Friday at 3 30 PM Hello. This is Sarah Williams. I actually need to cancel my my appointment this Friday at 3 30 PM. I feel a bit bad about it, but I found a doctor a bit closer to where I live. No reflection on you, just more convenient. Could you please help me cancel it?
+[00:42] AGENT: I can help with that. Please provide the full name and date of birth of the patient whose appointment you'd like to cancel.
+[00:52] PATIENT: Sure. My full name is Sarah Williams. And my date of birth is June 3rd.
+[00:56] AGENT: Thanks, Sarah. Please provide your date of birth. Could you please provide your full date of birth?
+[01:07] PATIENT: Of course, my full date of birth is June 3rd. 19 97.
+[01:16] AGENT: Just to confirm, I have your name as Sarah Williams and your date of birth as June 3rd 19 97. Is that correct? If so, please spell your 1st and last name for me,
+[01:29] PATIENT: Yes. That's correct. My 1st name is spelled s a r a h. And my last name is Dwyell I m s.
+[01:40] AGENT: Would you like me to look up your record? Using the phone number you have on file with us? If so, please provide that number. If you're not sure, please spell your 1st and last name again. And confirm your date of birth.
+[01:54] PATIENT: Oh, yes. Please go ahead and look it up. Using the phone number. My phone number is
+[01:59] AGENT: Please provide the phone number you have on file with us.
+[02:04] PATIENT: sorry about that. My phone number is 8 0 5 5 5 0 3 8 9.
+[02:17] AGENT: I have your phone number as 8 0 5 5 5 0 3 8 9. And your date of birth is June 3rd 19 97. Is that correct? If so, please confirm your 1st and last name by spelling them out 1 more time.
+[02:34] PATIENT: Yes. That's correct. My 1st name is spelled s a r a h, and my last name is w l m s.
+[02:46] AGENT: I can't cancel the appointment right now. But I'll connect you to our patient support team so they can help. Please stay on the line. Connecting you to a representative, please wait. Hello. You've reached the Pretty Good AI test line.

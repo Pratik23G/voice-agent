@@ -1,0 +1,135 @@
+{
+  "call_id": "019f055e-5cd3-7000-9b59-3bc90fb8ebd2",
+  "scenario": "ambiguous_date",
+  "timestamp": "20260626_192200",
+  "status": "ended",
+  "ended_reason": "assistant-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 0.96
+    },
+    {
+      "role": "bot",
+      "content": "Hi. This is Thomas Brown. I'd like to schedule an appointment for next Tuesday. Hi. This is Thomas Brown. I'm calling to schedule an appointment.",
+      "seconds_from_start": 16.309
+    },
+    {
+      "role": "user",
+      "content": "Thanks for letting me know, Thomas. Are you calling to schedule this appointment for yourself? Or for someone else?",
+      "seconds_from_start": 26.35
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's right. It's for me. I need to follow-up on some lab results. Yes. It's for myself. Wanna schedule a follow-up appointment for next Tuesday.",
+      "seconds_from_start": 35.559
+    },
+    {
+      "role": "user",
+      "content": "Please provide your date of birth.",
+      "seconds_from_start": 44.31
+    },
+    {
+      "role": "bot",
+      "content": "Sure. It's September 14th 19 69.",
+      "seconds_from_start": 49.359
+    },
+    {
+      "role": "user",
+      "content": "Just to confirm, I have your name as Thomas Brown, and your date of birth is September 14th 19 69? Is that correct? If so, please spell your 1st and last name for me.",
+      "seconds_from_start": 57.010001953125
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's correct. Thomas Brown. T 8. B o b 1.",
+      "seconds_from_start": 69.819
+    },
+    {
+      "role": "user",
+      "content": "Please spell your 1st and last name for me. Could you please spell your last name as well?",
+      "seconds_from_start": 73.02
+    },
+    {
+      "role": "bot",
+      "content": "Sorry about that.",
+      "seconds_from_start": 78.409
+    },
+    {
+      "role": "bot",
+      "content": "Sure. 1st name is t h o m a s. Last name is b r o n.",
+      "seconds_from_start": 83.2989951171875
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Just to confirm, your 1st name is spelled t h o m a s. And your last name is b r o n. Is that correct?",
+      "seconds_from_start": 89.28
+    },
+    {
+      "role": "bot",
+      "content": "Actually, it's Brown, b r o n. Sorry about that.",
+      "seconds_from_start": 101.219
+    },
+    {
+      "role": "user",
+      "content": "Thanks for clarifying. Just to confirm, your last name is spelled",
+      "seconds_from_start": 105.18
+    },
+    {
+      "role": "bot",
+      "content": "No problem.",
+      "seconds_from_start": 108.609
+    },
+    {
+      "role": "user",
+      "content": "d r o n. Is that correct?",
+      "seconds_from_start": 110.54
+    },
+    {
+      "role": "bot",
+      "content": "No. It's b r o n. Sorry for the mix up.",
+      "seconds_from_start": 116.1189951171875
+    },
+    {
+      "role": "user",
+      "content": "Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?",
+      "seconds_from_start": 122.79
+    },
+    {
+      "role": "bot",
+      "content": "You can look it up with my phone number, It's 8 0 5 5 5 0 8",
+      "seconds_from_start": 136.669
+    },
+    {
+      "role": "user",
+      "content": "Please provide the phone number you have on file with us.",
+      "seconds_from_start": 141.15001000976562
+    },
+    {
+      "role": "bot",
+      "content": "It's 8 0 5 5 5 5 0 8 5 1.",
+      "seconds_from_start": 146.769
+    },
+    {
+      "role": "user",
+      "content": "I have your phone number as 8 0 5 5 5 5 0 8 5 1. And your date of birth is September 14th 19 69. Is that correct?",
+      "seconds_from_start": 154.72
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's right.",
+      "seconds_from_start": 167.78901000976563
+    },
+    {
+      "role": "user",
+      "content": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I document your request. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line.",
+      "seconds_from_start": 174.37
+    },
+    {
+      "role": "user",
+      "content": "Goodbye.",
+      "seconds_from_start": 192.51
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hi. This is Thomas Brown. I'd like to schedule an appointment for next Tuesday. Hi. This is Thomas Brown. I'm calling to schedule an appointment.\nUser: Thanks for letting me know, Thomas. Are you calling to schedule this appointment for yourself? Or for someone else?\nAI: Yes. That's right. It's for me. I need to follow-up on some lab results. Yes. It's for myself. Wanna schedule a follow-up appointment for next Tuesday.\nUser: Please provide your date of birth.\nAI: Sure. It's September 14th 19 69.\nUser: Just to confirm, I have your name as Thomas Brown, and your date of birth is September 14th 19 69? Is that correct? If so, please spell your 1st and last name for me.\nAI: Yes. That's correct. Thomas Brown. T 8. B o b 1.\nUser: Please spell your 1st and last name for me. Could you please spell your last name as well?\nAI: Sorry about that.\nAI: Sure. 1st name is t h o m a s. Last name is b r o n.\nUser: Thank you. Just to confirm, your 1st name is spelled t h o m a s. And your last name is b r o n. Is that correct?\nAI: Actually, it's Brown, b r o n. Sorry about that.\nUser: Thanks for clarifying. Just to confirm, your last name is spelled\nAI: No problem.\nUser: d r o n. Is that correct?\nAI: No. It's b r o n. Sorry for the mix up.\nUser: Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?\nAI: You can look it up with my phone number, It's 8 0 5 5 5 0 8\nUser: Please provide the phone number you have on file with us.\nAI: It's 8 0 5 5 5 5 0 8 5 1.\nUser: I have your phone number as 8 0 5 5 5 5 0 8 5 1. And your date of birth is September 14th 19 69. Is that correct?\nAI: Yes. That's right.\nUser: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I document your request. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line.\nUser: Goodbye.\n"
+}

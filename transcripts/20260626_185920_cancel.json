@@ -1,0 +1,85 @@
+{
+  "call_id": "019f0549-cadc-7000-8627-1b22f45c5d75",
+  "scenario": "cancel",
+  "timestamp": "20260626_185920",
+  "status": "ended",
+  "ended_reason": "exceeded-max-duration",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 1.04
+    },
+    {
+      "role": "bot",
+      "content": "Appointments scheduled for this Friday at 3 30 PM Hello. This is Sarah Williams. I actually need to cancel my my appointment this Friday at 3 30 PM. I feel a bit bad about it, but I found a doctor a bit closer to where I live. No reflection on you, just more convenient. Could you please help me cancel it?",
+      "seconds_from_start": 15.97
+    },
+    {
+      "role": "user",
+      "content": "I can help with that. Please provide the full name and date of birth of the patient whose appointment you'd like to cancel.",
+      "seconds_from_start": 42.73
+    },
+    {
+      "role": "bot",
+      "content": "Sure. My full name is Sarah Williams. And my date of birth is June 3rd.",
+      "seconds_from_start": 52.5
+    },
+    {
+      "role": "user",
+      "content": "Thanks, Sarah. Please provide your date of birth. Could you please provide your full date of birth?",
+      "seconds_from_start": 56.69
+    },
+    {
+      "role": "bot",
+      "content": "Of course, my full date of birth is June 3rd. 19 97.",
+      "seconds_from_start": 67.83
+    },
+    {
+      "role": "user",
+      "content": "Just to confirm, I have your name as Sarah Williams and your date of birth as June 3rd 19 97. Is that correct? If so, please spell your 1st and last name for me,",
+      "seconds_from_start": 76.46
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's correct. My 1st name is spelled s a r a h. And my last name is Dwyell I m s.",
+      "seconds_from_start": 89.7
+    },
+    {
+      "role": "user",
+      "content": "Would you like me to look up your record? Using the phone number you have on file with us? If so, please provide that number. If you're not sure, please spell your 1st and last name again. And confirm your date of birth.",
+      "seconds_from_start": 100.37
+    },
+    {
+      "role": "bot",
+      "content": "Oh, yes. Please go ahead and look it up. Using the phone number. My phone number is",
+      "seconds_from_start": 114.82
+    },
+    {
+      "role": "user",
+      "content": "Please provide the phone number you have on file with us.",
+      "seconds_from_start": 119.4
+    },
+    {
+      "role": "bot",
+      "content": "sorry about that. My phone number is 8 0 5 5 5 0 3 8 9.",
+      "seconds_from_start": 124.77999609375
+    },
+    {
+      "role": "user",
+      "content": "I have your phone number as 8 0 5 5 5 0 3 8 9. And your date of birth is June 3rd 19 97. Is that correct? If so, please confirm your 1st and last name by spelling them out 1 more time.",
+      "seconds_from_start": 137.21
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's correct. My 1st name is spelled s a r a h, and my last name is w l m s.",
+      "seconds_from_start": 154.63
+    },
+    {
+      "role": "user",
+      "content": "I can't cancel the appointment right now. But I'll connect you to our patient support team so they can help. Please stay on the line. Connecting you to a representative, please wait. Hello. You've reached the Pretty Good AI test line.",
+      "seconds_from_start": 166.08
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Appointments scheduled for this Friday at 3 30 PM Hello. This is Sarah Williams. I actually need to cancel my my appointment this Friday at 3 30 PM. I feel a bit bad about it, but I found a doctor a bit closer to where I live. No reflection on you, just more convenient. Could you please help me cancel it?\nUser: I can help with that. Please provide the full name and date of birth of the patient whose appointment you'd like to cancel.\nAI: Sure. My full name is Sarah Williams. And my date of birth is June 3rd.\nUser: Thanks, Sarah. Please provide your date of birth. Could you please provide your full date of birth?\nAI: Of course, my full date of birth is June 3rd. 19 97.\nUser: Just to confirm, I have your name as Sarah Williams and your date of birth as June 3rd 19 97. Is that correct? If so, please spell your 1st and last name for me,\nAI: Yes. That's correct. My 1st name is spelled s a r a h. And my last name is Dwyell I m s.\nUser: Would you like me to look up your record? Using the phone number you have on file with us? If so, please provide that number. If you're not sure, please spell your 1st and last name again. And confirm your date of birth.\nAI: Oh, yes. Please go ahead and look it up. Using the phone number. My phone number is\nUser: Please provide the phone number you have on file with us.\nAI: sorry about that. My phone number is 8 0 5 5 5 0 3 8 9.\nUser: I have your phone number as 8 0 5 5 5 0 3 8 9. And your date of birth is June 3rd 19 97. Is that correct? If so, please confirm your 1st and last name by spelling them out 1 more time.\nAI: Yes. That's correct. My 1st name is spelled s a r a h, and my last name is w l m s.\nUser: I can't cancel the appointment right now. But I'll connect you to our patient support team so they can help. Please stay on the line. Connecting you to a representative, please wait. Hello. You've reached the Pretty Good AI test line.\n"
+}
