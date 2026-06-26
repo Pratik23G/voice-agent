@@ -34,7 +34,7 @@ def build_call_payload(scenario: Scenario) -> dict:
         "silenceTimeoutSeconds": 30,
         # Let the remote party finish their full greeting before the bot speaks
         "startSpeakingPlan": {
-            "waitSeconds": 2.0,
+            "waitSeconds": 3.5,
             "smartEndpointingEnabled": True,
         },
     }
