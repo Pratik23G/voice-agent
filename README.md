@@ -135,7 +135,53 @@ Reads all `.json` files in `transcripts/`, sends each to Claude Haiku, prints a 
 
 ## Architecture
 
-See [`ARCHITECTURE.md`](./ARCHITECTURE.md) for a full explanation of how the system works and why key design choices were made (Vapi vs self-hosted pipeline, transient vs saved assistants, model selection).
+See [`ARCHITECTURE.md`](./ARCHITECTURE.md) for the full design rationale. Diagrams below show the call lifecycle and artifact pipeline.
+
+### Call Lifecycle
+
+```mermaid
+sequenceDiagram
+    participant Dev as Developer
+    participant H as run_call.py
+    participant V as Vapi API
+    participant P as Patient Bot (GPT-4o-mini)
+    participant T as Medical Scheduling AI<br/>(+1-805-439-8008)
+
+    Dev->>H: python -m src.run_call --scenario X
+    H->>H: Load persona from personas.py
+    H->>V: POST /call (transient assistant + target number)
+    V->>T: Dial +18054398008
+    T-->>V: Answers
+
+    loop Conversation (1–3 min)
+        T->>V: Speech → Deepgram STT → text
+        V->>P: Patient bot receives scheduling agent reply
+        P-->>V: Patient response text
+        V->>T: OpenAI TTS → speech
+    end
+
+    T-->>V: Call ends
+    H->>V: GET /call/{id} (poll every 10 s)
+    V-->>H: status "ended" + recordingUrl
+    H->>H: Download MP3, write .txt + .json
+    H-->>Dev: recordings/ + transcripts/
+```
+
+### Artifact Pipeline
+
+```mermaid
+flowchart LR
+    A["personas.py\n14 scenarios"] --> B["run_call.py"]
+    B --> C["vapi_client.py"]
+    C -->|"POST /call"| D["Vapi API"]
+    D <-->|"Live call"| T["Target\n+18054398008"]
+    C -->|"Poll until ended"| D
+    D -->|"recordingUrl + messages"| C
+    C --> R["recordings/\n*.mp3"]
+    C --> TR["transcripts/\n*.txt  *.json"]
+    TR --> AN["analyze.py\nClaude Haiku"]
+    AN --> BG["bug_report.md"]
+```
 
 ---
 
