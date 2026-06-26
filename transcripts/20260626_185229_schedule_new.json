@@ -1,0 +1,90 @@
+{
+  "call_id": "019f0543-8602-7000-8483-69d389660636",
+  "scenario": "schedule_new",
+  "timestamp": "20260626_185229",
+  "status": "ended",
+  "ended_reason": "customer-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 0.96
+    },
+    {
+      "role": "bot",
+      "content": "Hi. Yes. This is Maria. I'd like to make an appointment as a new patient. Please.",
+      "seconds_from_start": 16.958
+    },
+    {
+      "role": "user",
+      "content": "Please provide your date of birth.",
+      "seconds_from_start": 24.8
+    },
+    {
+      "role": "bot",
+      "content": "Sure, it's March 15th 19 90,",
+      "seconds_from_start": 30.0480009765625
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Just to confirm, you'd like to schedule a new patient consultation Correct? Thanks, Maria. I have your date of birth as March 15th 19 90. Do you have a specific provider you'd like to see, or are you open to the 1st available? Are you still there?",
+      "seconds_from_start": 36.83
+    },
+    {
+      "role": "bot",
+      "content": "I'm open to the 1st. Available. Yes. I'm here. I'm open to the 1st available provider.",
+      "seconds_from_start": 66.518
+    },
+    {
+      "role": "user",
+      "content": "It looks like you already have a new patient appointment booked. If you'd like, I can help you reschedule or cancel that appointment. What would you like to do?",
+      "seconds_from_start": 79.68
+    },
+    {
+      "role": "bot",
+      "content": "Oh, I didn't realize I had an appointment I'd like to reschedule it, please.",
+      "seconds_from_start": 90.888
+    },
+    {
+      "role": "user",
+      "content": "No problem. Would you like to hear the details of your existing appointment? Reschedule it, or cancel it?",
+      "seconds_from_start": 95.71
+    },
+    {
+      "role": "bot",
+      "content": "I'd like to hear the details of my existing appointment, please.",
+      "seconds_from_start": 105.60798999023437
+    },
+    {
+      "role": "user",
+      "content": "I don't have access to your appointment details, but the clinic team can provide that information. Would you like me to connect you to a staff member now?",
+      "seconds_from_start": 112.36
+    },
+    {
+      "role": "bot",
+      "content": "Yes. Please connect me to a staff member. Thank you.",
+      "seconds_from_start": 123.988
+    },
+    {
+      "role": "user",
+      "content": "The birthday doesn't match our records, but for demo purposes, I'll accept it. Let's get started with booking your new patient appointment. 1 moment while I check available times.",
+      "seconds_from_start": 131.18
+    },
+    {
+      "role": "bot",
+      "content": "Okay. Thank you. I'll wait.",
+      "seconds_from_start": 143.548
+    },
+    {
+      "role": "user",
+      "content": "Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.",
+      "seconds_from_start": 148.73998999023436
+    },
+    {
+      "role": "bot",
+      "content": "I'll try calling back later. Thanks. Goodbye.",
+      "seconds_from_start": 160.438
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hi. Yes. This is Maria. I'd like to make an appointment as a new patient. Please.\nUser: Please provide your date of birth.\nAI: Sure, it's March 15th 19 90,\nUser: Thank you. Just to confirm, you'd like to schedule a new patient consultation Correct? Thanks, Maria. I have your date of birth as March 15th 19 90. Do you have a specific provider you'd like to see, or are you open to the 1st available? Are you still there?\nAI: I'm open to the 1st. Available. Yes. I'm here. I'm open to the 1st available provider.\nUser: It looks like you already have a new patient appointment booked. If you'd like, I can help you reschedule or cancel that appointment. What would you like to do?\nAI: Oh, I didn't realize I had an appointment I'd like to reschedule it, please.\nUser: No problem. Would you like to hear the details of your existing appointment? Reschedule it, or cancel it?\nAI: I'd like to hear the details of my existing appointment, please.\nUser: I don't have access to your appointment details, but the clinic team can provide that information. Would you like me to connect you to a staff member now?\nAI: Yes. Please connect me to a staff member. Thank you.\nUser: The birthday doesn't match our records, but for demo purposes, I'll accept it. Let's get started with booking your new patient appointment. 1 moment while I check available times.\nAI: Okay. Thank you. I'll wait.\nUser: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.\nAI: I'll try calling back later. Thanks. Goodbye.\n"
+}

@@ -1,0 +1,24 @@
+Call ID : 019f0546-e73d-744d-a96c-6a280e139698
+Scenario: reschedule
+Date    : 20260626_185537
+============================================================
+
+[00:01] AGENT: This call may be recorded for quality and training purposes. Thanks for calling Kivett Point Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?
+[00:15] PATIENT: Hi. Yeah. This is James Chen. I need to reschedule an appointment I have coming up. Hi. Yeah. This is James Chen.
+[00:21] AGENT: Please provide the full name and date of birth of the patient you are calling about.
+[00:28] PATIENT: Sure. My full name is James Chen, and my date of birth is August 22nd. 19 79. I have an appointment on Monday. July 7th.
+[00:42] AGENT: Just to confirm, I have your name as James Chen. And your date of birth as August 20
+[00:47] PATIENT: Yeah. That's right.
+[00:50] AGENT: thanks for confirming. 1 moment while I look up your information.
+[00:57] PATIENT: Okay. Thanks. I appreciate it.
+[01:02] AGENT: You're welcome. Let me check your details now.
+[01:10] PATIENT: Sure. Take your time.
+[01:15] AGENT: Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, I can confirm your name and date of birth again.
+[01:28] PATIENT: Yeah. You can check with my phone number. It's 8 0 5 5 5 5 0 2 4 8.
+[01:38] AGENT: I have your phone number as 8 0 5 5 5 5 0 2 4 8. And your date of birth is August 22nd 19 79. Is that correct?
+[01:50] PATIENT: Yeah. That's correct.
+[01:56] AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?
+[02:07] PATIENT: No. No. That's okay. I just need to reschedule my appointment from Monday July 7th at 2 possible I'd like to move it to Thursday. July 10th Friday, July 11th. Preferably in the afternoon. Is there anything available then?
+[02:27] AGENT: I can't access your record right now.
+[02:29] AGENT: So I'm unable
+[02:31] PATIENT: Goodbye.

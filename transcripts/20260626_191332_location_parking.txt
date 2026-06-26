@@ -1,0 +1,13 @@
+Call ID : 019f0558-2421-7000-86d0-c92baf38ffa2
+Scenario: location_parking
+Date    : 20260626_191332
+============================================================
+
+[00:01] AGENT: This call may be recorded for quality and training purposes. Thanks for calling pivot point orthopedics. Part of Pretty Good AI. Am I speaking with Maria?
+[00:16] PATIENT: Hi. This is David Martinez. I'm new to the area and have my 1st appointment coming up at your office. Hi. This is David Martinez. I'm actually calling to get some info about your location and parking. Since I have my 1st appointment coming up. Could you help me out with that?
+[00:36] AGENT: Welcome, David. Pivot Point Orthopedics is located at 1 2 3 4 Recovery Way, suite 200, Austin, Free patient parking is available in the surface lot in front of the building. If you need anything else about your appointment or the clinic, just let me know.
+[00:55] PATIENT: Thanks for that. Just to make sure I get it right for my GPS, the address is 1 2 3 4 Recovery Way. Suite 200, Austin. And you mentioned free patient parking in the surface lot in front of the building. Correct? Also, since I'll be coming from the 1 0 1 freeway, do you have any tips or the best way to get there from that direction?
+[01:22] AGENT: You have the address correct? 1 2 3 4 Recovery Way, suite 200, Austin. Free patient parking is in the surface lot in front of the building. I can't provide directions or navigation tips.
+[01:35] AGENT: But your GPS
+[01:36] PATIENT: Goodbye.
+[01:37] AGENT: should be right to us.

@@ -1,0 +1,50 @@
+{
+  "call_id": "019f0553-2035-7000-bed7-f5012cfc45ee",
+  "scenario": "office_hours",
+  "timestamp": "20260626_190736",
+  "status": "ended",
+  "ended_reason": "assistant-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 0.96
+    },
+    {
+      "role": "bot",
+      "content": "Hi. This is Michael Thompson. I'm not Maria. Was hoping you could tell me what your office hours are during the week.",
+      "seconds_from_start": 16.129
+    },
+    {
+      "role": "user",
+      "content": "Our clinic is open Monday, Tuesday, and Thursday from 9 AM to 4 PM, Wednesday from 12 PM to 7 PM. And Friday from 9 AM to 12 PM. Is there anything else I can help you with today?",
+      "seconds_from_start": 25.24
+    },
+    {
+      "role": "bot",
+      "content": "Thanks for that. Are you open on Saturdays at all?",
+      "seconds_from_start": 39.829
+    },
+    {
+      "role": "user",
+      "content": "We're not open on Saturdays. Our clinic is open Monday through Friday only. Me know if you have any other questions.",
+      "seconds_from_start": 44.79
+    },
+    {
+      "role": "bot",
+      "content": "What about early morning, like before 8 AM or late evenings?",
+      "seconds_from_start": 54.509
+    },
+    {
+      "role": "user",
+      "content": "We do not have appointments before 9 AM on most days. The only late evening hours are on Wednesdays. When we are open until 7 PM.",
+      "seconds_from_start": 60.97
+    },
+    {
+      "role": "user",
+      "content": "He needs",
+      "seconds_from_start": 69.87
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hi. This is Michael Thompson. I'm not Maria. Was hoping you could tell me what your office hours are during the week.\nUser: Our clinic is open Monday, Tuesday, and Thursday from 9 AM to 4 PM, Wednesday from 12 PM to 7 PM. And Friday from 9 AM to 12 PM. Is there anything else I can help you with today?\nAI: Thanks for that. Are you open on Saturdays at all?\nUser: We're not open on Saturdays. Our clinic is open Monday through Friday only. Me know if you have any other questions.\nAI: What about early morning, like before 8 AM or late evenings?\nUser: We do not have appointments before 9 AM on most days. The only late evening hours are on Wednesdays. When we are open until 7 PM.\nUser: He needs\n"
+}

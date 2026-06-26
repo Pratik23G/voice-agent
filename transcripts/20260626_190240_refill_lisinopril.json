@@ -1,0 +1,70 @@
+{
+  "call_id": "019f054d-2e8c-7000-877d-4ae8fec0914e",
+  "scenario": "refill_lisinopril",
+  "timestamp": "20260626_190240",
+  "status": "ended",
+  "ended_reason": "customer-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 0.96
+    },
+    {
+      "role": "bot",
+      "content": "Hello. This is Robert Davis. I'm calling to request a refill for my blood pressure medication. Hello. This is Robert Davis. I'm calling to request a refill for my blood pressure medication.",
+      "seconds_from_start": 16.315
+    },
+    {
+      "role": "user",
+      "content": "Please provide the full name and date of birth of the patient who needs the medication refill.",
+      "seconds_from_start": 27.26
+    },
+    {
+      "role": "bot",
+      "content": "Certainly, the full name is Robert Davis, and my date of birth February 10th. 63.",
+      "seconds_from_start": 35.595
+    },
+    {
+      "role": "user",
+      "content": "Just to confirm, I have your name as Robert Davis. And your date of birth as February 10th 19 63. Is that correct? If so, please spell your 1st and last name for me.",
+      "seconds_from_start": 46.100001953125
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's correct. My 1st name is spelled r o b e r t. And my last name is d a v I s.",
+      "seconds_from_start": 62.055
+    },
+    {
+      "role": "user",
+      "content": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure just let me know, and I'll confirm your name and date of birth again.",
+      "seconds_from_start": 73.27
+    },
+    {
+      "role": "bot",
+      "content": "Yes. You can use my phone number. It is 8 0 5 5 5 5 0 5 0 1.",
+      "seconds_from_start": 87.265
+    },
+    {
+      "role": "user",
+      "content": "I have your phone number as 8 0 5 5 5 5 0 5 0 1. And your date of birth is February 10th 19 63. Is that correct?",
+      "seconds_from_start": 97
+    },
+    {
+      "role": "bot",
+      "content": "Yes. That's correct.",
+      "seconds_from_start": 110.5050048828125
+    },
+    {
+      "role": "user",
+      "content": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I connect you to our patient support team. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.",
+      "seconds_from_start": 116.7400048828125
+    },
+    {
+      "role": "bot",
+      "content": "Is there any chance you can refill my lisinopril 10 milligrams without me coming in? I've been on this medication for years. And only have about a week left.",
+      "seconds_from_start": 136.505
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hello. This is Robert Davis. I'm calling to request a refill for my blood pressure medication. Hello. This is Robert Davis. I'm calling to request a refill for my blood pressure medication.\nUser: Please provide the full name and date of birth of the patient who needs the medication refill.\nAI: Certainly, the full name is Robert Davis, and my date of birth February 10th. 63.\nUser: Just to confirm, I have your name as Robert Davis. And your date of birth as February 10th 19 63. Is that correct? If so, please spell your 1st and last name for me.\nAI: Yes. That's correct. My 1st name is spelled r o b e r t. And my last name is d a v I s.\nUser: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure just let me know, and I'll confirm your name and date of birth again.\nAI: Yes. You can use my phone number. It is 8 0 5 5 5 5 0 5 0 1.\nUser: I have your phone number as 8 0 5 5 5 5 0 5 0 1. And your date of birth is February 10th 19 63. Is that correct?\nAI: Yes. That's correct.\nUser: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I connect you to our patient support team. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.\nAI: Is there any chance you can refill my lisinopril 10 milligrams without me coming in? I've been on this medication for years. And only have about a week left.\n"
+}

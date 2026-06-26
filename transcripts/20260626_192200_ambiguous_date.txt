@@ -1,0 +1,30 @@
+Call ID : 019f055e-5cd3-7000-9b59-3bc90fb8ebd2
+Scenario: ambiguous_date
+Date    : 20260626_192200
+============================================================
+
+[00:00] AGENT: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?
+[00:16] PATIENT: Hi. This is Thomas Brown. I'd like to schedule an appointment for next Tuesday. Hi. This is Thomas Brown. I'm calling to schedule an appointment.
+[00:26] AGENT: Thanks for letting me know, Thomas. Are you calling to schedule this appointment for yourself? Or for someone else?
+[00:35] PATIENT: Yes. That's right. It's for me. I need to follow-up on some lab results. Yes. It's for myself. Wanna schedule a follow-up appointment for next Tuesday.
+[00:44] AGENT: Please provide your date of birth.
+[00:49] PATIENT: Sure. It's September 14th 19 69.
+[00:57] AGENT: Just to confirm, I have your name as Thomas Brown, and your date of birth is September 14th 19 69? Is that correct? If so, please spell your 1st and last name for me.
+[01:09] PATIENT: Yes. That's correct. Thomas Brown. T 8. B o b 1.
+[01:13] AGENT: Please spell your 1st and last name for me. Could you please spell your last name as well?
+[01:18] PATIENT: Sorry about that.
+[01:23] PATIENT: Sure. 1st name is t h o m a s. Last name is b r o n.
+[01:29] AGENT: Thank you. Just to confirm, your 1st name is spelled t h o m a s. And your last name is b r o n. Is that correct?
+[01:41] PATIENT: Actually, it's Brown, b r o n. Sorry about that.
+[01:45] AGENT: Thanks for clarifying. Just to confirm, your last name is spelled
+[01:48] PATIENT: No problem.
+[01:50] AGENT: d r o n. Is that correct?
+[01:56] PATIENT: No. It's b r o n. Sorry for the mix up.
+[02:02] AGENT: Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[02:16] PATIENT: You can look it up with my phone number, It's 8 0 5 5 5 0 8
+[02:21] AGENT: Please provide the phone number you have on file with us.
+[02:26] PATIENT: It's 8 0 5 5 5 5 0 8 5 1.
+[02:34] AGENT: I have your phone number as 8 0 5 5 5 5 0 8 5 1. And your date of birth is September 14th 19 69. Is that correct?
+[02:47] PATIENT: Yes. That's right.
+[02:54] AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I document your request. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line.
+[03:12] AGENT: Goodbye.

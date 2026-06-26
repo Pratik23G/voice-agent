@@ -1,0 +1,80 @@
+{
+  "call_id": "019f0554-c1b1-7000-8626-6517bb0b6dc7",
+  "scenario": "insurance_check",
+  "timestamp": "20260626_191118",
+  "status": "ended",
+  "ended_reason": "customer-ended-call",
+  "messages": [
+    {
+      "role": "user",
+      "content": "This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?",
+      "seconds_from_start": 0.96
+    },
+    {
+      "role": "bot",
+      "content": "Hello. This is Lisa Anderson. I would like to confirm a few details about Hello. This is Lisa Anderson. Insurance acceptance Before call us, please check if you're scheduling your 0.6 percent steps. Aetna PPO insurance before I make an appointment. Could you please confirm that for me?",
+      "seconds_from_start": 16.207
+    },
+    {
+      "role": "user",
+      "content": "Help with your insurance question. Just to confirm, are you calling on behalf of Maria? Or are you looking for information for yourself?",
+      "seconds_from_start": 38.09
+    },
+    {
+      "role": "bot",
+      "content": "I'm calling for myself. My name is Lisa Anderson, and I want to confirm whether you accept Aetna PPO insurance. Before I schedule an appointment. Can you please let me know if you are in network for Aetna PPO?",
+      "seconds_from_start": 50.487
+    },
+    {
+      "role": "user",
+      "content": "Lisa, can you please provide your date of birth?",
+      "seconds_from_start": 70.05
+    },
+    {
+      "role": "bot",
+      "content": "Yes. My date of birth is May 8 19 83.",
+      "seconds_from_start": 75.517
+    },
+    {
+      "role": "user",
+      "content": "Just to make sure I have your information correct, can you please spell your 1st and last name for me? I have your date of birth as May 8th 19 83. Is that right?",
+      "seconds_from_start": 83.71001000976563
+    },
+    {
+      "role": "bot",
+      "content": "Certainly. My 1st name is spelled l I s a. Yes. That's correct. My 1st name is l I s a, and my last name is a n e r s o n.",
+      "seconds_from_start": 94.677
+    },
+    {
+      "role": "user",
+      "content": "Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. No problem.",
+      "seconds_from_start": 106.90999609375
+    },
+    {
+      "role": "bot",
+      "content": "No. No. Thank you.",
+      "seconds_from_start": 118.36698999023437
+    },
+    {
+      "role": "user",
+      "content": "Could you please confirm the spelling of your 1st and last name 1 more time along with your date of birth?",
+      "seconds_from_start": 120.17000610351562
+    },
+    {
+      "role": "bot",
+      "content": "Certainly. My 1st name is spelled l I s a. My last name is spelled a e r s o n. My date of birth is May 8 19 83.",
+      "seconds_from_start": 129.007
+    },
+    {
+      "role": "user",
+      "content": "I can't confirm insurance details right now, but I can connect you to our patient support team for help. Please stay on the line while I transfer your call. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.",
+      "seconds_from_start": 142.59
+    },
+    {
+      "role": "bot",
+      "content": "I understand, but I was hoping you could tell me from your end whether you're in network for Aetna PPO. Do you know?",
+      "seconds_from_start": 163.487
+    }
+  ],
+  "raw_transcript": "User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?\nAI: Hello. This is Lisa Anderson. I would like to confirm a few details about Hello. This is Lisa Anderson. Insurance acceptance Before call us, please check if you're scheduling your 0.6 percent steps. Aetna PPO insurance before I make an appointment. Could you please confirm that for me?\nUser: Help with your insurance question. Just to confirm, are you calling on behalf of Maria? Or are you looking for information for yourself?\nAI: I'm calling for myself. My name is Lisa Anderson, and I want to confirm whether you accept Aetna PPO insurance. Before I schedule an appointment. Can you please let me know if you are in network for Aetna PPO?\nUser: Lisa, can you please provide your date of birth?\nAI: Yes. My date of birth is May 8 19 83.\nUser: Just to make sure I have your information correct, can you please spell your 1st and last name for me? I have your date of birth as May 8th 19 83. Is that right?\nAI: Certainly. My 1st name is spelled l I s a. Yes. That's correct. My 1st name is l I s a, and my last name is a n e r s o n.\nUser: Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. No problem.\nAI: No. No. Thank you.\nUser: Could you please confirm the spelling of your 1st and last name 1 more time along with your date of birth?\nAI: Certainly. My 1st name is spelled l I s a. My last name is spelled a e r s o n. My date of birth is May 8 19 83.\nUser: I can't confirm insurance details right now, but I can connect you to our patient support team for help. Please stay on the line while I transfer your call. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.\nAI: I understand, but I was hoping you could tell me from your end whether you're in network for Aetna PPO. Do you know?\n"
+}

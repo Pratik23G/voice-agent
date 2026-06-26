@@ -1,6 +1,4 @@
 .env
-recordings/
-transcripts/
 __pycache__/
 *.pyc
 *.pyo

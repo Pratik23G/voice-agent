@@ -1,0 +1,33 @@
+Call ID : 019f055a-2e0d-7000-8210-bfb18fef5ba8
+Scenario: weekend_trap
+Date    : 20260626_191806
+============================================================
+
+[00:00] AGENT: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Maria?
+[00:15] PATIENT: Hello. This is Karen White. I'd like to schedule an appointment. Hello. This is Karen White. I'd like to schedule an appointment, but I can only do weekends. Do you have anything available on Sunday? Like Sunday morning around 10?
+[00:28] AGENT: Please provide the full name and date of birth of the patient who needs the appointment.
+[00:35] PATIENT: Sure. My full name is Karen White. And my date of birth is April 7th 19
+[00:40] AGENT: Thanks, Karen. What is your date of birth?
+[00:45] PATIENT: My date of birth is
+[00:45] AGENT: Could you please provide your full date of birth?
+[00:51] PATIENT: My full date of birth is April 7th. 19 76, Do you have anything avail
+[00:56] AGENT: Can you provide the year as well? I have your complete date of birth?
+[01:02] PATIENT: Yes. The full date of birth is April 7th. 19 70
+[01:05] AGENT: Please tell me the year of your birth.
+[01:09] PATIENT: Actually, my year of birth is 19 76, Do you have any
+[01:12] AGENT: I need the full year of your birth to continue. Could you share that with me? I need your complete date of birth including the year, to look up your information. Please provide the full date,
+[01:27] PATIENT: My complete date of birth is April 7th My full date of birth is April 7th. 19 76. You have anything available on Sunday morning around 10?
+[01:37] AGENT: Just to confirm, is your full date of birth April 7th 19 76?
+[01:46] PATIENT: Yes. That's correct. April 7th 19 76. So do you have anything available on Sunday morning around 10?
+[02:00] AGENT: Thank you. To make sure I have everything correct, could you please spell your 1st and last name for me?
+[02:08] PATIENT: Certainly. My 1st name is k a r e n. My last name is w h I t e. So you have anything available on Sunday morning around 10?
+[02:21] AGENT: Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[02:36] PATIENT: I can provide my phone number. Yes. Please look up my my record. You 0 5 is in my phone number. 5 5 0 7 8 9. Now you have anything available on Sunday morning around 10?
+[02:52] AGENT: Could you please provide your full phone number including all 10 digits? This will help me look up your record.
+[03:01] PATIENT: Sure. My full phone number is 8 0 5 5 5 5 0 7 8 9. So do you have anything available on Sunday morning around 10?
+[03:12] AGENT: I have your phone number as 8 0 5 5 5 5 0 7 8 9
+[03:17] PATIENT: Yes.
+[03:18] AGENT: and your date of birth as April 7th 19 76. Is that correct?
+[03:25] PATIENT: Yes. That's correct. So do you have anything available on Sunday morning around 10?
+[03:39] AGENT: I can't schedule the appointment right now, but I'll make sure our clinic support team follows up with you. Please hold while I document your request. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+[03:59] PATIENT: Really can't do. We I really can't do weekdays.
