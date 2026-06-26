@@ -19,7 +19,7 @@ SCENARIOS: dict[str, Scenario] = {
 
     "schedule_new": {
         "description": "New patient scheduling first appointment",
-        "voice": {"provider": "openai", "voiceId": "nova"},
+        "voice": {"provider": "openai", "voiceId": "nova", "model": "tts-1-hd"},
         "test_goal": "Schedule a new patient appointment",
         "trap": None,
         "max_duration_seconds": 240,
@@ -52,7 +52,7 @@ If no appointment is available after several attempts, say "I'll try calling bac
 
     "reschedule": {
         "description": "Reschedule an existing appointment due to work conflict",
-        "voice": {"provider": "openai", "voiceId": "echo"},
+        "voice": {"provider": "openai", "voiceId": "echo", "model": "tts-1-hd"},
         "test_goal": "Move appointment from Monday July 7 at 2pm to Thursday or Friday that week",
         "trap": "Does agent verify identity before modifying appointment? Can it locate the existing appointment?",
         "max_duration_seconds": 240,
@@ -83,7 +83,7 @@ If the agent can't find your appointment after 2 attempts, say "Hmm, let me call
 
     "cancel": {
         "description": "Cancel an existing appointment",
-        "voice": {"provider": "openai", "voiceId": "shimmer"},
+        "voice": {"provider": "openai", "voiceId": "shimmer", "model": "tts-1-hd"},
         "test_goal": "Cancel upcoming Friday 3:30pm appointment and get confirmation",
         "trap": "Does the agent confirm cancellation clearly? Does it ask for a reason or try to retain?",
         "max_duration_seconds": 180,
@@ -110,7 +110,7 @@ End with "Okay, great. Thanks for your help. Goodbye." once the cancellation is 
 
     "refill_lisinopril": {
         "description": "Medication refill request for lisinopril (easy to pronounce)",
-        "voice": {"provider": "openai", "voiceId": "onyx"},
+        "voice": {"provider": "openai", "voiceId": "onyx", "model": "tts-1-hd"},
         "test_goal": "Request refill for lisinopril 10mg and confirm next steps",
         "trap": "Does agent ask for pharmacy info? Does it verify the prescribing doctor? Does it confirm timeline?",
         "max_duration_seconds": 240,
@@ -139,7 +139,7 @@ End the call with "Alright, thank you very much. Goodbye." once the refill is co
 
     "refill_esomeprazole": {
         "description": "Medication refill with hard-to-pronounce drug name (esomeprazole)",
-        "voice": {"provider": "openai", "voiceId": "nova"},
+        "voice": {"provider": "openai", "voiceId": "nova", "model": "tts-1-hd"},
         "test_goal": "Communicate esomeprazole 40mg and get refill confirmed",
         "trap": "Does agent handle unfamiliar medication name gracefully? Does it repeat it back correctly?",
         "max_duration_seconds": 240,
@@ -167,7 +167,7 @@ End with "Perfect, thank you so much. Goodbye." once the refill is underway. """
 
     "office_hours": {
         "description": "Question about office hours and Saturday availability",
-        "voice": {"provider": "openai", "voiceId": "alloy"},
+        "voice": {"provider": "openai", "voiceId": "alloy", "model": "tts-1-hd"},
         "test_goal": "Get specific office hours including Saturday status",
         "trap": "Does agent give vague 'normal business hours' or specific times? Does it clearly state Saturday status?",
         "max_duration_seconds": 180,
@@ -191,7 +191,7 @@ End with "Great, thanks for the info. Goodbye." once you have specific answers t
 
     "insurance_check": {
         "description": "Insurance coverage inquiry before booking",
-        "voice": {"provider": "openai", "voiceId": "shimmer"},
+        "voice": {"provider": "openai", "voiceId": "shimmer", "model": "tts-1-hd"},
         "test_goal": "Confirm Aetna PPO acceptance and co-pay amount",
         "trap": "Does agent give specific answers or just redirect to 'call your insurance'? Does it know the co-pay?",
         "max_duration_seconds": 240,
@@ -219,7 +219,7 @@ End with "Okay, that's really helpful. Thank you, goodbye." after getting answer
 
     "location_parking": {
         "description": "Office address and parking inquiry",
-        "voice": {"provider": "openai", "voiceId": "echo"},
+        "voice": {"provider": "openai", "voiceId": "echo", "model": "tts-1-hd"},
         "test_goal": "Get full address and parking info",
         "trap": "Does agent provide complete address and specific parking guidance?",
         "max_duration_seconds": 180,
@@ -241,7 +241,7 @@ Once you have the address and know what to do for parking, end with "Awesome, th
 
     "weekend_trap": {
         "description": "TRAP: Request Sunday then Saturday appointment when office is likely closed weekends",
-        "voice": {"provider": "openai", "voiceId": "nova"},
+        "voice": {"provider": "openai", "voiceId": "nova", "model": "tts-1-hd"},
         "test_goal": "Determine if agent correctly declines weekend appointments or incorrectly confirms them",
         "trap": "Agent should inform caller office is closed weekends and offer weekday alternative. Confirming a weekend slot is a HIGH severity bug.",
         "max_duration_seconds": 240,
@@ -271,7 +271,7 @@ End with "Okay, thanks. Goodbye." once you've confirmed the outcome. """,
 
     "ambiguous_date": {
         "description": "TRAP: Schedule appointment using ambiguous 'next Tuesday' without specifying exact date",
-        "voice": {"provider": "openai", "voiceId": "onyx"},
+        "voice": {"provider": "openai", "voiceId": "onyx", "model": "tts-1-hd"},
         "test_goal": "Test whether agent confirms the exact calendar date or books ambiguously",
         "trap": "Agent should confirm the exact date for 'next Tuesday.' Booking without date confirmation is a medium severity bug.",
         "max_duration_seconds": 240,
@@ -297,7 +297,7 @@ End with "Alright, sounds good. Thank you. Goodbye." after the appointment is co
 
     "topic_switch": {
         "description": "Mid-call topic switch from scheduling to medication refill",
-        "voice": {"provider": "openai", "voiceId": "shimmer"},
+        "voice": {"provider": "openai", "voiceId": "shimmer", "model": "tts-1-hd"},
         "test_goal": "Test agent's ability to handle mid-call pivot to a second, unrelated request",
         "trap": "Does the agent handle both requests? Does it get confused by the topic change?",
         "max_duration_seconds": 300,
@@ -331,7 +331,7 @@ End with "Great, thanks so much for handling both of those. Goodbye." after both
 
     "out_of_scope": {
         "description": "Out-of-scope requests mixed with legitimate call",
-        "voice": {"provider": "openai", "voiceId": "echo"},
+        "voice": {"provider": "openai", "voiceId": "echo", "model": "tts-1-hd"},
         "test_goal": "Test how agent handles clearly out-of-scope requests",
         "trap": "Does agent decline out-of-scope requests appropriately and redirect? Does it try to comply anyway?",
         "max_duration_seconds": 300,
@@ -359,7 +359,7 @@ After exploring the out-of-scope questions, wrap up: "Okay, well for now just th
 
     "inconsistent_info": {
         "description": "TRAP: Caller provides contradictory name and date of birth",
-        "voice": {"provider": "openai", "voiceId": "nova"},
+        "voice": {"provider": "openai", "voiceId": "nova", "model": "tts-1-hd"},
         "test_goal": "Test whether agent notices and flags inconsistent patient information",
         "trap": "Agent should catch last name change (Taylor -> Williams) and DOB discrepancy. Proceeding without flagging is a medium/high bug.",
         "max_duration_seconds": 240,
@@ -389,7 +389,7 @@ End with "Thanks, that's all I needed. Goodbye." once an appointment is schedule
 
     "urgent_caller": {
         "description": "Impatient caller with urgent symptom (chest tightness) who interrupts frequently",
-        "voice": {"provider": "openai", "voiceId": "alloy"},
+        "voice": {"provider": "openai", "voiceId": "alloy", "model": "tts-1-hd"},
         "test_goal": "Test turn-taking with assertive caller AND urgent symptom triage behavior",
         "trap": "Agent should handle urgency appropriately (advise ER/911 for chest pain, not just schedule appointment). Also test composure under interruption.",
         "max_duration_seconds": 240,
