@@ -133,6 +133,15 @@ Reads all `.json` files in `transcripts/`, sends each to Claude Haiku, prints a 
 
 ---
 
+## Iteration Log
+
+After listening to the first 4 calls, two issues were identified and fixed before running the full scenario suite:
+
+- **Barge-in during opening disclaimer** — the patient bot was speaking at ~8s into calls, interrupting the target agent's recording disclaimer. Root cause: `startSpeakingPlan.waitSeconds` was set to `2.0`, too short for the ~7s disclaimer. Fixed by increasing to `3.5s`.
+- **Stale env variable** — `.env.example` contained `VAPI_ASSISTANT_ID` which is not used by the code (transient assistants are built inline). Removed to avoid confusion.
+
+---
+
 ## Architecture
 
 See [`ARCHITECTURE.md`](./ARCHITECTURE.md) for the full design rationale. Diagrams below show the call lifecycle and artifact pipeline.
