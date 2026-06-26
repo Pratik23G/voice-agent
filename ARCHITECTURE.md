@@ -1,5 +1,7 @@
 # Architecture
 
+> For visual diagrams of the call lifecycle and artifact pipeline, see the [Architecture section in README](./README.md#architecture).
+
 ## How It Works
 
 A thin Python harness calls the Vapi REST API to place outbound phone calls to the Pretty Good AI test line. For each scenario, the harness builds a transient Vapi "assistant" object inline — rather than referencing a saved assistant — so every call gets exactly the right persona and goal without any Vapi dashboard configuration. Vapi handles the full voice stack: Deepgram for speech-to-text, GPT-4o-mini for the patient LLM, and OpenAI TTS for the voice. Once a call is placed, the harness polls `GET /call/{id}` every 10 seconds until `status` is `"ended"`, then downloads the recording from `artifact.recordingUrl` and writes both a human-readable `.txt` transcript and a structured `.json` file from the `messages` array. A second LLM pass (`analyze.py`) reads every saved transcript and uses Claude Haiku to surface ranked bug candidates, which are then curated into `bug_report.md`.
